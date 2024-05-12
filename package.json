@@ -1,0 +1,14 @@
+{
+  "name": "unit2.testspecs",
+  "version": "1.0.0",
+  "description": "This is the completed Block 18 Workshop. I did the first half with my previous cohort already, but I completed the second half the way we were taught on Thursday.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
